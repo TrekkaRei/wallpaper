@@ -2,4 +2,4 @@ Wallpapers for your OS
 
 chmod +x filename.extension
 
-file ---> /usr/share/backgrounds/yourcustomDIR/
+sudo cp "file" /usr/share/backgrounds/yourcustomDIR/
