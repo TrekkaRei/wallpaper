@@ -1,4 +1,4 @@
-Wallpapers.
+Wallpapers
 
 chmod +x filename.extension
 
