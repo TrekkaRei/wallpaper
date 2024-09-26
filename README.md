@@ -1,4 +1,4 @@
-Wallpapers for your OS
+Wallpapers.
 
 chmod +x filename.extension
 
